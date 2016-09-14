@@ -20,9 +20,7 @@ public class AboutMe {
 		System.out.format("%-10s","Runnymede Collegiate Institute\n");
 		System.out.format("%-10s","\"Go Ravens!\"\n\n");
 		
-		System.out.format("%-10s","Navtej.G\n");
-		System.out.format("%-10s","Miss.Kemp\n");
-		System.out.format("%-10s","Runnymede Collegiate Institute\n\n");
+	
 		
 		   System.out.format("%-10s%8s%8s","Period","Day 1","\tDay 2\n"); 
 		   System.out.format("%-10s%8s%8s","1","SPH3U1-01","\tSPH3U1-01\n");
