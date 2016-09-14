@@ -4,8 +4,10 @@
 package ghataure;
 
 /**
- * @author 323878314
- *
+ * ICS3U
+ * AboutMe
+ *14/09/2016
+ *Navtej Ghataure
  */
 public class AboutMe {
 
