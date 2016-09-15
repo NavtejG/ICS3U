@@ -5,7 +5,7 @@ package ghataure;
 
 /**
  *  ICS3U
- * BingoCard
+ * BingoRules
  *14/09/2016
  *Navtej Ghataure
  */
