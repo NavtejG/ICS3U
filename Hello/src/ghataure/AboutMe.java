@@ -6,7 +6,7 @@ package ghataure;
 /**
  * ICS3U
  * AboutMe
- *14/09/2016
+ *14/09/2016 
  *Navtej Ghataure
  */
 public class AboutMe {
@@ -22,7 +22,7 @@ public class AboutMe {
 		
 	
 		
-		   System.out.format("%-10s%8s%8s","Period","Day 1","\tDay 2\n"); 
+		   System.out.format("%-10s %8s %8s","Period","Day 1","\tDay 2\n"); 
 		   System.out.format("%-10s%8s%8s","1","SPH3U1-01","\tSPH3U1-01\n");
 		   System.out.format("%-10s%8S%8s","08:45","Enns,M","\tEnns,M\n");
 		   System.out.format("%-10s%8s%8s","10:02","226","\t226\n\n");	   
