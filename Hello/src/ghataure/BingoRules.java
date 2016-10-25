@@ -6,7 +6,7 @@ package ghataure;
 /**
  *  ICS3U
  * BingoRules.java
- *14/09/2016
+ *15/09/2016
  *Navtej Ghataure
  */
 public class BingoRules {
