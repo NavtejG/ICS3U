@@ -5,7 +5,7 @@ package ghataure;
 
 /**
  *  ICS3U
- * TicTacToeBoard
+ * TicTacToeBoard.java
  *14/09/2016
  *Navtej Ghataure
  *

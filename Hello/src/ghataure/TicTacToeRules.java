@@ -5,7 +5,7 @@ package ghataure;
 
 /**
  * *  ICS3U
- * TicTacToeRules
+ * TicTacToeRules.java
  *14/09/2016
  *Navtej Ghataure
  */
@@ -15,7 +15,7 @@ public class TicTacToeRules {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		 System.out.format("%2s%4s%4s%4s","Tic","Tac"," Toe"," Rules\n\n");
+		 System.out.print("Tic Tac Toe Rules\n\n");
 		 System.out.print("Tic Tac Toe is a game for 2 players\n\n");
 	     System.out.print("1. A grid of 9 squares is drawn.\n\n");
 	     System.out.print("2. The first player draws an X in an empty square.\n\n");

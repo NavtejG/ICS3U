@@ -5,7 +5,7 @@ package ghataure;
 
 /**
  *  ICS3U
- * BingoRules
+ * BingoRules.java
  *14/09/2016
  *Navtej Ghataure
  */
@@ -15,7 +15,7 @@ public class BingoRules {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		 System.out.format("%2s%6s","Bingo","Card\n\n"); 
+		 System.out.print("Bingo  Card\n\n"); 
 	     System.out.print("1. The caller randomly pulls a numbered bingo ball.\n\n");
 	     System.out.print("2. The number is placed on the bingo board and called out.\n\n");
 	     System.out.print("3. Players look for the called number on their bingo card.\n\n");
