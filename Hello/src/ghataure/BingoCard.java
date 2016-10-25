@@ -5,7 +5,7 @@ package ghataure;
 
 /**
  * ICS3U
- * BingoCard
+ * BingoCard.java
  *14/09/2016
  *Navtej Ghataure
  */
