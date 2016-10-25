@@ -6,6 +6,7 @@ package ghataure;
 /**
  * ICS3U
  * AboutMe.java
+ * Shows informations about navtej
  *13/09/2016 
  *Navtej Ghataure
  */
