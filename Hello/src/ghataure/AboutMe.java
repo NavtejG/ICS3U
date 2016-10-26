@@ -6,7 +6,11 @@ package ghataure;
 /**
  * ICS3U
  * AboutMe.java
+<<<<<<< HEAD
  * Shows informations about Navtej
+=======
+ * Shows informations about navtej
+>>>>>>> branch 'master' of https://github.com/NavtejG/ICS3U.git
  *13/09/2016 
  *Navtej Ghataure
  */
