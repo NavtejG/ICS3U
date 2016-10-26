@@ -6,6 +6,7 @@ package ghataure;
 /**
  * *  ICS3U
  * TicTacToeRules.java
+ * Rules of game
  *14/09/2016
  *Navtej Ghataure
  */
