@@ -6,6 +6,7 @@ package ghataure;
 /**
  *  ICS3U
  * BingoRules.java
+ * Rules of bingo
  *15/09/2016
  *Navtej Ghataure
  */
