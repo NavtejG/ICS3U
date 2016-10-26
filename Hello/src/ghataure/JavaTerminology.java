@@ -6,6 +6,7 @@ package ghataure;
 /**
  * ICS3U
  * JavaTerminology.java
+ * Java word meanings
  *19/09/2016
  *Navtej Ghataure
  *
