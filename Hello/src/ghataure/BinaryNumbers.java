@@ -6,6 +6,7 @@ package ghataure;
 /**
  *ICS3U
  * BinaryDigits.java
+ * Learning Binary digits
  *19/09/2016
  *Navtej Ghataure
  *
