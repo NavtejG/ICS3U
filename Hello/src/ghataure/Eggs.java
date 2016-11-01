@@ -6,7 +6,10 @@ package ghataure;
 import java.util.Scanner;
 
 /**
- * @author 323878314
+ *ICS3U
+ *Eggs
+ *01/11/2016
+ *Navtej Ghataure
  *
  */
 public class Eggs {
@@ -46,6 +49,7 @@ public class Eggs {
 	
 				System.out.println("price per dozen:" + price);
 				System.out.println("Your total is:"+  (price*dozen));
+				System.out.print("The amount of eggs your purchases are:" + dozen*12);
 			  
 			   
 	}
