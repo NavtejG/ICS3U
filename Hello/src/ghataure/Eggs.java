@@ -9,6 +9,7 @@ import java.util.Scanner;
  *ICS3U
  *Eggs
  *01/11/2016
+ *How many eggs would you like?
  *Navtej Ghataure
  *
  */
