@@ -8,6 +8,7 @@ import java.util.Scanner;
 /**
  *ICS3U
  *Divisableby7
+ *is your number divisable by 7?
  *31/10/2016
  *Navtej Ghataure
  *
