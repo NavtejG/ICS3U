@@ -3,6 +3,7 @@
  */
 package ghataure;
 
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
@@ -26,7 +27,8 @@ public class Eggs {
 		
 		
 
-		
+		   DecimalFormat df = new DecimalFormat ("0.00");
+			
 			System.out.print("How many dozens would you like?");
 			dozen= scan.nextInt();
 
@@ -50,7 +52,8 @@ public class Eggs {
 	
 				System.out.println("price per dozen:" + price);
 				System.out.println("Your total is:"+  (price*dozen));
-				System.out.print("The amount of eggs your purchases are:" + dozen*12);
+				System.out.println("The amount of eggs your purchases are:" + dozen*12);
+				System.out.println("The total per egg is:"+ df.format(price/12));
 			  
 			   
 	}
