@@ -22,19 +22,19 @@ public class PrimeFactors {
 		Scanner scan=new Scanner(System.in);
 		
 		double number;
-		
-		System.out.print("Enter a number:  " );
-		number=scan.nextInt();
-		
 		int count = 2;
 		
+		System.out.print("Enter a number:");
+		number=scan.nextInt();
+		
+		
 		while (count <= number){
-			if(number % count ==0){
-				System.out.println(count);
-			number = number / count;
+		if(number % count ==0){
+		System.out.println(count);
+		number = number / count;
 			}
 			else{
-				count = count +1;
+			count = count +1;
 				
 			}
 		}
