@@ -21,9 +21,9 @@ public class Investment {
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
 		
-		int iInvest = 2500;
+		int Invest = 2500;
 		int finalInvest = 5000;
-		double currentInvest = iInvest;
+		double currentInvest = Invest;
          
 		double years = 1;
 		
@@ -32,7 +32,7 @@ public class Investment {
 		currentInvest = currentInvest * 1.075;
 		
 		}
-		System.out.println("It will take you "+  years + " years" );
+		System.out.println("It will take you "+  (int)years + " years" );
 	}
 
 }
