@@ -23,8 +23,8 @@ public class Chaos {
 	
 
 		System.out.println("Please enter a number for x:");
-		int x=scan.nextInt();
-		for(int i = 0; i<50;i++){
+		long x=scan.nextInt();
+		for(long i = 0; i<50;i++){
 			x = 2*x*(1-x);	
 			//System.out.println(x= 2*x*(1-x));
 			System.out.println(x);
