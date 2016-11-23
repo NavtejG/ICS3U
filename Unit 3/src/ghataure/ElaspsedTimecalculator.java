@@ -25,7 +25,7 @@ public class ElaspsedTimecalculator {
 		int hour  ;
 		String time;
 		int elapsed;
-		double price = 0.00;
+		double t2 = 0.00;
 		
 		
 

@@ -20,16 +20,18 @@ public class Chaos {
 	 */
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
-		 
-	int x = 1;	
-	for(int x = 1; x<=50;x++){
-		
-
-			
-
 	
+
+		System.out.println("Please enter a number for x:");
+		int x=scan.nextInt();
+		for(int i = 0; i<50;i++){
+			x = 2*x*(1-x);	
+			//System.out.println(x= 2*x*(1-x));
+			System.out.println(x);
+       
+		} 
+
 	}
-}
+
 }
 
-	
