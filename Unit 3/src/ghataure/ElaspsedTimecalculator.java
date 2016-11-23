@@ -7,7 +7,11 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
- * @author 323878314
+ *ICS3U
+ *Time
+ *What is the time?
+ *230./11/2016
+ *Navtej Ghataure
  *
  */
 public class ElaspsedTimecalculator {
