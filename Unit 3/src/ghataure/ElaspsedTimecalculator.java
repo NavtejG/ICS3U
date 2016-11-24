@@ -40,18 +40,18 @@ public class ElaspsedTimecalculator {
 			
 			System.out.println("Numbers of ours elapsed?");
 			elapsed = scan.nextInt();
-			
-			System.out.println("The time is:  " + (df.format(hour + elapsed) + time));
-
+			if (hour+elapsed >=12){
+				System.out.print("Your time is:" +(hour + elapsed - 12) + time);
+			}
+			else if(hour + elapsed <=12){
+				System.out.println("Your time is:" + (hour + elapsed + 12) + time);
+			}
 			
 		
 			
-
-			  
-
-
-		   }
-		
 	}
+}
+		
+	
 
 
