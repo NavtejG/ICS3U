@@ -10,7 +10,7 @@ import java.util.Scanner;
  *ICS3U
  *Time
  *What is the time?
- *230./11/2016
+ *23/11/2016
  *Navtej Ghataure
  *
  */
