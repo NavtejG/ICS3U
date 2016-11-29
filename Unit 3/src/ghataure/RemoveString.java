@@ -6,7 +6,11 @@ package ghataure;
 import java.util.Scanner;
 
 /**
- * @author 323878314
+ *ICS3U
+ *RemoveString
+ *what word will you remove?
+ *29/11/2016
+ *Navtej Ghataure
  *
  */
 public class RemoveString {
@@ -24,7 +28,7 @@ public class RemoveString {
 		System.out.println("Enter a string:");
 		str=scan.nextLine();
 
-		System.out.println(sentence.replace(str," "));
+		System.out.println(sentence.replace(str,""));
      
 
 	}
