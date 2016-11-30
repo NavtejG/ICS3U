@@ -28,11 +28,11 @@ public class GroupAssignment {
 		lastname = scan.nextLine();
 		
 		if (lastname.startsWith("A-I")) {
-			System.out.println(firstName + lastname + " is assigned to Group 1");
+			System.out.println(firstName +  lastname + " is assigned to Group 1");
 		} else if (lastname.startsWith("J-S")) {
-			System.out.println(firstName + lastname + " is assigned to Group 2");
-		} else {
-			System.out.println(firstName + lastname + " is assigned to Group 3");
+			System.out.println(firstName +  lastname + " is assigned to Group 2");
+		} else { 
+			System.out.println(firstName +  lastname + " is assigned to Group 3");
 
 		}
 
