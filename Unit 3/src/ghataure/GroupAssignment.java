@@ -27,9 +27,9 @@ public class GroupAssignment {
 		System.out.print("Enter you last name: ");
 		lastname = scan.nextLine();
 		
-		if (lastname.startsWith("A-I")) {
+		if (lastname.startsWith("A")||lastname.startsWith("B")||lastname.startsWith("C")||lastname.startsWith("D")||lastname.startsWith("E")||lastname.startsWith("F")||lastname.startsWith("G")||lastname.startsWith("H")||lastname.startsWith("I")) {
 			System.out.println(firstName +  lastname + " is assigned to Group 1");
-		} else if (lastname.startsWith("J-S")) {
+		} else if (lastname.startsWith("J")||lastname.startsWith("K")||lastname.startsWith("L")||lastname.startsWith("M")||lastname.startsWith("N")||lastname.startsWith("O")||lastname.startsWith("P")||lastname.startsWith("Q")||lastname.startsWith("R")||lastname.startsWith("S")) {
 			System.out.println(firstName +  lastname + " is assigned to Group 2");
 		} else { 
 			System.out.println(firstName +  lastname + " is assigned to Group 3");
