@@ -6,7 +6,11 @@ package ghataure;
 import java.util.Scanner;
 
 /**
- * @author 323878314
+ *ICS3U
+ *List of names
+ *what names will you get?
+ *07/12/2016
+ *Navtej Ghataure
  *
  */
 public class Listofnames {
