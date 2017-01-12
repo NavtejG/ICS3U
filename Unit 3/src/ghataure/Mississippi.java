@@ -17,6 +17,8 @@ public class Mississippi {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
+		
 		m();
 		i();
 		s();
@@ -30,6 +32,9 @@ public class Mississippi {
 		i();
 		
 	}
+	/**
+	 * Draws the letter m
+	 */
 	public static void m()
 	{
 		System.out.println("M       M");
@@ -41,6 +46,9 @@ public class Mississippi {
 	    System.out.println("M       M");
 	    System.out.println("");
 	}
+	/**
+	 * Draws the letter I
+	 */
 	public static void i()
 	{
 		System.out.println("IIIII");
@@ -52,6 +60,9 @@ public class Mississippi {
 		System.out.println("IIIII");
 		System.out.println("");
 }
+	/**
+	 * Draws the letter S
+	 */
 	public static void s()
 	{
 		System.out.println(" SSSSS");
@@ -64,7 +75,9 @@ public class Mississippi {
 		System.out.println("");
 	}
 	
-
+	/**
+	 * Draws the letter P
+	 */
 	public static void p()
 	{
 		System.out.println("PPPPPPP");
