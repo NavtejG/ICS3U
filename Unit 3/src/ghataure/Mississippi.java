@@ -20,14 +20,14 @@ public class Mississippi {
 		m();
 		i();
 		s();
-		S();
-		I();
-		Ss();
-		sss();
-		ii();
+		s();
+		i();
+		s();
+		s();
+		i();
 		p();
-		pp();
-		iii();
+		p();
+		i();
 		
 	}
 	public static void m()
@@ -63,62 +63,7 @@ public class Mississippi {
 		System.out.println(" SSSSS");
 		System.out.println("");
 	}
-	public static void S()
-	{
-		System.out.println(" SSSSS");
-		System.out.println("S     S");
-		System.out.println("S");
-		System.out.println(" SSSSS");
-		System.out.println("     S");
-		System.out.println("S     S");
-		System.out.println(" SSSSS");
-		System.out.println("");
-	}
-	public static void I()
-	{
-		System.out.println("IIIII");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("IIIII");
-		System.out.println("");
-}
-	public static void Ss()
-	{
-		System.out.println(" SSSSS");
-		System.out.println("S     S");
-		System.out.println("S");
-		System.out.println(" SSSSS");
-		System.out.println("     S");
-		System.out.println("S     S");
-		System.out.println(" SSSSS");
-		System.out.println("");
-	}
-	public static void sss()
-	{
-		System.out.println(" SSSSS");
-		System.out.println("S     S");
-		System.out.println("S");
-		System.out.println(" SSSSS");
-		System.out.println("     S");
-		System.out.println("S     S");
-		System.out.println(" SSSSS");
-		System.out.println("");
-	}
-
-	public static void ii()
-	{
-		System.out.println("IIIII");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("IIIII");
-		System.out.println("");
-}
+	
 
 	public static void p()
 	{
@@ -131,26 +76,5 @@ public class Mississippi {
 		System.out.println("P");
 		System.out.println("");
 }
-	public static void pp()
-	{
-		System.out.println("PPPPPPP");
-		System.out.println("P      P  ");
-		System.out.println("P      P");
-		System.out.println("PPPPPPP");
-		System.out.println("P");
-		System.out.println("P");
-		System.out.println("P");
-		System.out.println("");
-}
-	public static void iii()
-	{
-		System.out.println("IIIII");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("  I");
-		System.out.println("IIIII");
-		System.out.println("");
-}
+
 }
