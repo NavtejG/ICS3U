@@ -19,19 +19,19 @@ import javax.imageio.ImageIO;
 
 
 public class Connect4 {
-	
+
 
 	public static void main1(String[] args){ 
 
-	Scanner scan = new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);
 	}
 
 	public static boolean putDisk(char[][] field, int column, char color) {
-	
+
 		if (field[0][column] != ' ')
 			return false;
 
-	
+
 		for (int row = 0; row < 7; ++row) {
 
 
@@ -41,17 +41,17 @@ public class Connect4 {
 				return true;
 			}
 		}
-	
-	
+
+
 		// If no other disks found, we place this disk at the bottom.
 		field[6][column] = color;
 		return true;
-}
+	}
 
 
 	// Check rows, if there are 4 or more disks of the same color - return winner color
 	static char getWinnerInRows(char[][] field) {
-	
+
 		for (int row = 0; row < 7; ++row) {
 			int count = 0;
 
@@ -192,7 +192,7 @@ public class Connect4 {
 
 		return 'D';
 	}
-	
+
 
 	public static void printField(char[][] field) {
 		for (int row = 0; row < 7; ++row) {
@@ -200,13 +200,13 @@ public class Connect4 {
 			for (int col = 0; col < 7; ++col)
 				System.out.print(field[row][col] + "| ");
 			System.out.println();
-		
 
-		
-		for (int col = 0; col < 7; ++col)
-			System.out.print("---");
-		System.out.println();
-	}
+
+
+			for (int col = 0; col < 7; ++col)
+				System.out.print("---");
+			System.out.println();
+		}
 	}
 
 	public static void main11(String[] args) {
@@ -220,7 +220,7 @@ public class Connect4 {
 
 		printField(field);
 
-		
+
 		boolean isRed = true;
 		while (true) {
 			if (isRed)
@@ -261,8 +261,8 @@ public class Connect4 {
 
 
 			isRed = !isRed;
-	}
-  }
-
 		}
-	
+	}
+
+}
+
